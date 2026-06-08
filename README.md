@@ -11,9 +11,9 @@
 
 ## 📌 Quick Stats
 
-![Contributions](https://img.shields.io/badge/contributions-14-blue)
+![Contributions](https://img.shields.io/badge/contributions-13-blue)
 ![Merged](https://img.shields.io/badge/merged-12-brightgreen)
-![Open](https://img.shields.io/badge/open-2-yellow)
+![Open](https://img.shields.io/badge/open-1-yellow)
 
 ---
 
@@ -34,7 +34,6 @@
 |---|---|---|---|
 | [devanprigent/article-manager](https://github.com/devanprigent/article-manager/pull/23) | Feat(backend): add structured logging throughout API | Python, Flask | ✅ Merged |
 | [CipherX0101/Python-Programs](https://github.com/CipherX0101/Python-Programs/pull/2) | Fix: add a function that reads JSON safely | Python | ✅ Merged |
-| [siddhijadhav27/jarvix](https://github.com/siddhijadhav27/jarvix/pull/94) | feat: add REST API server with FastAPI | Python, FastAPI | 🔄 Open PR |
 
 
 ### DevOps / Tooling
@@ -92,7 +91,6 @@
 | [ErenYeager-rgb-242/pendulum-creation-center](https://github.com/ErenYeager-rgb-242/pendulum-creation-center/pull/6) | Added a Software Engineering/Development style effect | JavaScript, CSS | ✅ Merged |
 | [gonzalorportfolio/portfolio-page](https://github.com/gonzalorportfolio/portfolio-page/pull/14) | Enhanced navbar responsiveness | CSS, React | ✅ Merged |
 | [gonzalorportfolio/portfolio-page](https://github.com/gonzalorportfolio/portfolio-page/pull/13) | Enhance About page responsiveness in App.css | CSS, React | ✅ Merged |
-| [siddhijadhav27/jarvix](https://github.com/siddhijadhav27/jarvix/pull/94) | feat: add REST API server with FastAPI | Python, FastAPI | 🔄 Open PR |
 
 
 ---
@@ -107,7 +105,6 @@
 | [CipherX0101/Game-Changing-Websites-Collection](https://github.com/CipherX0101/Game-Changing-Websites-Collection/pull/6) | Implemented a search functionality | JavaScript | ✅ Merged |
 | [CipherX0101/Game-Changing-Websites-Collection](https://github.com/CipherX0101/Game-Changing-Websites-Collection/pull/4) | Implemented a fully functional filtering system | JavaScript | ✅ Merged |
 | [CipherX0101/Python-Programs](https://github.com/CipherX0101/Python-Programs/pull/2) | Fix: add a function that reads JSON safely | Python | ✅ Merged |
-| [siddhijadhav27/jarvix](https://github.com/siddhijadhav27/jarvix/pull/94) | feat: add REST API server with FastAPI | Python, FastAPI | 🔄 Open PR |
 | [iamdevdhanush/Devops](https://github.com/iamdevdhanush/Devops/pull/28) | CI: add ShellCheck and yamlint workflow | Shell, YAML, GitHub Actions | 🔄 Open PR |
 
 ### Other
