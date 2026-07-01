@@ -145,4 +145,4 @@
 
 ---
 
-*Last auto-updated: June 2026*
+*Last auto-updated: July 2026*
