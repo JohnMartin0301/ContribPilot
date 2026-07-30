@@ -40,7 +40,7 @@
 
 | Repository | What I Contributed | Tech Stack | Status |
 |---|---|---|---|
-| [angeloINTJ/simut](https://github.com/angeloINTJ/simut/pull/45) | Add Docker development environment | C++, Docker, Shell, CSS, HTML | ✅ Merged |
+| [angeloINTJ/simut](https://github.com/angeloINTJ/simut/pull/45) | Add Docker development environment | C++, HTML, Docker, Shell, CSS | ✅ Merged |
 | [iamdevdhanush/Devops](https://github.com/iamdevdhanush/Devops/pull/28) | CI: add ShellCheck and yamlint workflow | Shell, YAML, GitHub Actions | 🔄 Open PR |
 
 
@@ -83,7 +83,7 @@
 
 | Repository | What I Contributed | Tech Stack | Status |
 |---|---|---|---|
-| [angeloINTJ/simut](https://github.com/angeloINTJ/simut/pull/45) | Add Docker development environment | C++, Docker, Shell, CSS, HTML | ✅ Merged |
+| [angeloINTJ/simut](https://github.com/angeloINTJ/simut/pull/45) | Add Docker development environment | C++, HTML, Docker, Shell, CSS | ✅ Merged |
 | [devanprigent/article-manager](https://github.com/devanprigent/article-manager/pull/23) | Feat(backend): add structured logging throughout API | Python, Flask | ✅ Merged |
 | [CipherX0101/Game-Changing-Websites-Collection](https://github.com/CipherX0101/Game-Changing-Websites-Collection/pull/6) | Implemented a search functionality | JavaScript | ✅ Merged |
 | [CipherX0101/Game-Changing-Websites-Collection](https://github.com/CipherX0101/Game-Changing-Websites-Collection/pull/4) | Implemented a fully functional filtering system | JavaScript | ✅ Merged |
@@ -111,7 +111,7 @@
 
 | Repository | What I Contributed | Tech Stack | Status |
 |---|---|---|---|
-| [angeloINTJ/simut](https://github.com/angeloINTJ/simut/pull/45) | Add Docker development environment | C++, Docker, Shell, CSS, HTML | ✅ Merged |
+| [angeloINTJ/simut](https://github.com/angeloINTJ/simut/pull/45) | Add Docker development environment | C++, HTML, Docker, Shell, CSS | ✅ Merged |
 
 ### Web Development
 
